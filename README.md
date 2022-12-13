@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hromolozano
-- 👀 I’m interested in starting a career as a data scientist
-- 🌱 I’m currently learning Google data analytics course
-- 💞️ I’m looking to collaborate on entry level projects
+- 👀 I’m interested in continuing a career as a Data Engineer 
+- 🌱 I’m currently learning Spark
+- 💞️ I’m looking to collaborate on data engineering entry level projects
 - 📫 You can reach me via email - hromolozano.95@gmail.com
 
 <!---
